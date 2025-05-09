@@ -22,7 +22,6 @@ In this step, the data is sourced from two main files:
 
 These datasets are read using **pandas** and prepared for further analysis.
 
-![Data Acquisition](images/data_acquisition.png)  <!-- Add the image of data acquisition here -->
 
 ### **2️⃣ Data Cleaning** 🧹
 
@@ -31,7 +30,6 @@ These datasets are read using **pandas** and prepared for further analysis.
 
 After cleaning, the data is prepared for transformation and analysis.
 
-![Data Cleaning](images/data_cleaning.png)  <!-- Add the image of data cleaning here -->
 
 ### **3️⃣ Data Preparation for Star Schema** 🔄
 
@@ -53,9 +51,6 @@ We use **SQL queries** to extract valuable insights, such as:
 - Top athletes with the most medals.
 - Cities that hosted both Summer and Winter Olympics.
 
-Results are visualized using **matplotlib** and **seaborn**.
-
-![Data Analysis](images/data_analysis.png)  <!-- Add the image of data analysis here -->
 
 ---
 
@@ -76,7 +71,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/olympics-data-analysis.git
    cd olympics-data-analysis
-````
 
 2. **Install dependencies**:
 
@@ -131,8 +125,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. **Emojis**: Used throughout to make the README more engaging.
 
 3. **Clear Instructions**: The setup and usage instructions are simple, guiding the user through the project setup.
-
----
-
-هل هذا مناسب؟ إذا كنت بحاجة لتعديل أو إضافة شيء آخر، أنا جاهز!
-```
