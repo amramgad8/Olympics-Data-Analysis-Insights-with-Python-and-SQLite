@@ -3,7 +3,7 @@
 ## **Project Overview** 🎯
 
 This project involves the analysis of the Olympic Games dataset using **SQLite** for database management and **Python** for data manipulation, analysis, and visualization. The goal of this project is to build a relational database for storing Olympic Games data and use **SQL queries** and **Python** tools to gain insights into the history of the Olympic Games.
-
+![Olympics Overview](https://github.com/amramgad8/Olympics-Data-Analysis-Insights-with-Python-and-SQLite/blob/81fa2ce23865dcc3543c717aedaef116d5c84fe3/olympiques.jpeg)
 ### **Key Features** 🛠️:
 - Data cleaning and preprocessing using **pandas**.
 - Database creation with **SQLite** to store cleaned data.
