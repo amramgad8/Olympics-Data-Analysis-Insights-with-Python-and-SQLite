@@ -34,6 +34,11 @@ After cleaning, the data is prepared for transformation and analysis.
 ### **3️⃣ Data Preparation for Star Schema** 🔄
 
 We begin preparing the **Star Schema** by creating the **Dimension Tables** (e.g., **DimAthletes**, **DimGames**) and the **Fact Table** (**FactResults**). These tables will store descriptive and measurable data, forming the relational structure for efficient analysis.
+## **Entity-Relationship Diagram (ERD)** 📊
+
+The diagram below shows the **Star Schema** used to structure the Olympic Games dataset, with the central **FactResults** table connected to the dimension tables: **DimAthletes**, **DimGames**, **DimEvents**, **DimSports**, and **DimCountries**.
+
+![ERD](https://github.com/amramgad8/Olympics-Data-Analysis-Insights-with-Python-and-SQLite/blob/93374efadfafce8bf12d28a3c57da092b35a3ef8/Screenshot%202025-05-09%20015141.png)
 
 ### **4️⃣ Create SQLite Database & Tables** 🗃️
 
