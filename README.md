@@ -117,11 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### **Key Points**:
-1. **Images**: 
-   - Add your images for each section (e.g., data acquisition, data cleaning, etc.) by replacing `images/data_acquisition.png` with the correct image path.
-   - You can add images by placing them in a folder named `images/` in your repository.
-   
-2. **Emojis**: Used throughout to make the README more engaging.
-
-3. **Clear Instructions**: The setup and usage instructions are simple, guiding the user through the project setup.
