@@ -97,26 +97,6 @@ To run this project locally, follow these steps:
 
 ---
 
-## **Usage** 🔍
-
-Once the project is set up, you can run the various steps in the Jupyter Notebook to:
-
-* Import and clean the data.
-* Create the SQLite database and tables.
-* Perform SQL queries to analyze the Olympic Games data.
-* Visualize the results using **matplotlib** and **seaborn**.
-
----
-
-## **Contributions** 🤝
-
-If you would like to contribute to this project, feel free to fork the repository and submit a **pull request** with your changes.
-
----
-
-## **License** 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
